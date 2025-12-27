@@ -1,0 +1,8 @@
+{
+  "name": "Mercy App",
+  "description": "High-performance real-time translation and smart glasses companion app powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
